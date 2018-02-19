@@ -43,6 +43,9 @@ break;
 case "gamemodes":
 message.channel.sendMessage("1. TDM 2. Hostage 3. FFA 4. CTF")
 break;
+case "help":
+message.channel.sendMessage("Use the [:] prefix to send a command. Simple commands include rules, and gamemodes.");
+break;
 case "about":
 message.channel.sendMessage("Creator: Gauntlet")
 break;

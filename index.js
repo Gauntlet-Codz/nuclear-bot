@@ -1,6 +1,5 @@
 const Discord = require("discord.js");
 const commando = require("discord.js-commando");
-const TOKEN = "";
 const PREFIX = ":";
 const YTDL = require("ytdl-core");
 

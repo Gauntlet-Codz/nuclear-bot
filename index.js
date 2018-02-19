@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const commando = require("discord.js-commando");
-const TOKEN = "NDE0ODMyNjgwMjMyODEyNTQ0.DWtHoA.hsBRUTE40IgDD93ByATF3bvooFg";
+const TOKEN = "";
 const PREFIX = ":";
 const YTDL = require("ytdl-core");
 
